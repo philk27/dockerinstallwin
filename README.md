@@ -33,12 +33,10 @@ docker intro  https://docs.docker.com/get-started/hands-on-overview/
 wsl documentation https://learn.microsoft.com/en-us/windows/wsl/
 docker documentation https://docs.docker.com/get-started/overview/
 
-## free text editors for windows 
+## Free text editors for windows 
 VScode: (It's not just for visual studio) https://code.visualstudio.com/   
-notapad++ (This should be windows default IMHO).  https://notepad-plus-plus.org/ 
+notapad++ (This should be Windows default IMHO).  https://notepad-plus-plus.org/ 
 
 ## Disclaimer
 
 This script is provided "as is" without warranty of any kind, either express or implied, including but not limited to the implied warranties of merchantability and fitness for a particular purpose. The entire risk as to the quality and performance of the script is with you. Should the script prove defective, you assume the cost of all necessary servicing, repair or correction.
-
-You should always test the script on your computer before using it for real. You should also review and edit the readme.md file before publishing it.
