@@ -14,9 +14,9 @@ This PowerShell script checks if virtualization is enabled on your computer, ins
 
 ## Usage
 
-1. Download or copy the script to your computer and save it as `install-wsl2-docker.ps1`.
+1. Download or copy the script to your computer and save it as `dockerinstallwin.ps1`.
 2. Open a PowerShell console as Administrator and navigate to the directory where you saved the script.
-3. Run the script by typing `.\install-wsl2-docker.ps1`.
+3. Run the script by typing `.\dockerinstallwin.ps1`.
 4. Follow the prompts and confirmations on the screen. The script will ask you if you want to proceed with each step and will display informative messages and error messages if any.
 5. The script will reboot your computer if virtualization is not enabled in BIOS. You will need to enter BIOS and enable virtualization manually. The script will print the instructions on how to do that before rebooting.
 6. The script will open the Docker Desktop install for Windows web page from Docker documentation for your reference.
