@@ -32,9 +32,6 @@ if ($sysinfo -like '*Virtualization Enabled In Firmware: Yes*') {
     }
 }
 
-I can check the rest of the script for similar errors and make the same improvements as before. Here is the improved script:
-
-```powershell
 # Use DISM to install WSL2 and set it as the default version
 # Describe the first step and wait for confirmation
 Write-Output "The first step is to install WSL 2 and set it as the default version using DISM and wsl commands. WSL 2 allows you to run Linux distributions on Windows 10."
