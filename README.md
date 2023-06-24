@@ -24,17 +24,22 @@ This PowerShell script checks if virtualization is enabled on your computer, ins
 
 ## Further info
 Enabling virtualisation in BIOS https://pureinfotech.com/enable-virtualization-uefi-bios-windows-11/
+
 Installing WSL https://learn.microsoft.com/en-us/windows/wsl/install
+
 Installing docker Desktop https://docs.docker.com/desktop/install/windows-install/
 
 wsl intro https://learn.microsoft.com/en-us/windows/wsl/setup/environment
+
 docker intro  https://docs.docker.com/get-started/hands-on-overview/
 
 wsl documentation https://learn.microsoft.com/en-us/windows/wsl/
+
 docker documentation https://docs.docker.com/get-started/overview/
 
 ## Free text editors for windows 
 VScode: (It's not just for visual studio) https://code.visualstudio.com/   
+
 notapad++ (This should be Windows default IMHO).  https://notepad-plus-plus.org/ 
 
 ## Disclaimer
